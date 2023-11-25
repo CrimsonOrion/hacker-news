@@ -1,0 +1,25 @@
+{
+  "name": "hacker-news",
+  "version": "1.0.0",
+  "description": "Tutorial from https://betterstack.com/community/guides/scaling-nodejs/build-nodejs-application-express-pug",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrimsonOrion/hacker-news.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "pug",
+    "auth0"
+  ],
+  "author": "Crimson Orion",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/CrimsonOrion/hacker-news/issues"
+  },
+  "homepage": "https://github.com/CrimsonOrion/hacker-news#readme"
+}
